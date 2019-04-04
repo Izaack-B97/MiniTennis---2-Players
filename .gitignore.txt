@@ -1,5 +1,0 @@
-/build
-/nbproyect
-/test
-build.xml
-manifest.mf
